@@ -45,6 +45,8 @@
 Please go to cypress/reports/report_cucumber.html file after running test cases in headless mode reports will be generated in html format.
 
 below is screenshot of reports for reference
+
+
 ![Alt text](image.png)
 
 ### Queries
