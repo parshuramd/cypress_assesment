@@ -7,26 +7,37 @@
 
 ## 🚀 Create Project
 
--[1] Create Project Folder on your machine
--[2] Initialise the git for that project folder by 
+[1] Create Project Folder on your machine
+
+[2] Initialise the git for that project folder by 
+
 ```git init```
--[3] Clone git repo by
+
+[3] Clone git repo by
+
 ```git clone https://github.com/parshuramd/cypress_assesment.git```
--[4] change directory to
+
+[4] change directory to
+
 ```cd cypress_assesment```
--[5] Install all dependencies by
+
+[5] Install all dependencies by
+
 ```npm i```
 
 
 ## Run the test cases:
 
 -[1] for headed mode from terminal
+
 ```npx cypress run --headed```
 
 -[2] headless mode
+
 ```npx cypress run```
 
 -[3] for cypress runner to open
+
 ```npx cypress open```
 
 ## Reports
